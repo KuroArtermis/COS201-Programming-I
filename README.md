@@ -1,9 +1,9 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Matriculation Number:** [Your Matric Number]
-- **Programme:** [Your Programme]
+- **Name:** REMI-ESAN IBUKUNOLUWA WILLIAMS
+- **Matriculation Number:** 25/18056
+- **Programme:** COMPUTER SCIENCE
 - **Course:** COS 201 — Computer Programming I
 - **Lecturer:** Dr. Ajilore Opeoluwa
 
